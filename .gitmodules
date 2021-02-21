@@ -1,0 +1,3 @@
+[submodule "react-apollo-client"]
+	path = react-apollo-client
+	url = https://github.com/sSeongJae91/react-apollo-client.git
