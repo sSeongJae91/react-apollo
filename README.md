@@ -38,3 +38,6 @@ $ npm install graphql graphql-tag
 
 ## momentjs
 $ npm install moment
+
+## jwt token decode
+$ npm install jwt-decode
