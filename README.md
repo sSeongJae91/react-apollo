@@ -41,3 +41,6 @@ $ npm install moment
 
 ## jwt token decode
 $ npm install jwt-decode
+
+## apollo-link-context
+$ npm install apollo-link-context
