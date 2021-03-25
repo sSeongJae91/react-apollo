@@ -1,6 +1,6 @@
 ## Mongo setting
 
-Viscose extension
+VSCode extension
 - GraphQL for VScode
 - TODO Highlight
 
