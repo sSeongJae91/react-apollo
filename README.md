@@ -28,13 +28,13 @@ npx create-react-app client
 Apollo package.json에 start 추가 이후 npm run serve로 실행
 
 —apollo react 추가
-$ npm install npm install @apollo/react-hooks apollo-cache-inmemory apollo-link-http apollo/client
+</br>$ npm install npm install @apollo/react-hooks apollo-cache-inmemory apollo-link-http apollo/client
 
 — react router, semantic ui
-$ npm install react-router-dom semantic-ui-css semantic-ui-react
+</br>$ npm install react-router-dom semantic-ui-css semantic-ui-react
 
 — react graphic
-$ npm install graphql graphql-tag
+</br>$ npm install graphql graphql-tag
 
 ## momentjs
 $ npm install moment
